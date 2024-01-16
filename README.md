@@ -1,4 +1,4 @@
-![Dipendra Neupane Github Cover Photo](https://github.com/dipneupane/dipneupane/blob/main/assets/dipneupane_readme-cover.jpg)
+![Rahul Rathore Github Cover Photo]([https://github.com/dipneupane/dipneupane/blob/main/assets/dipneupane_readme-cover.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8i6A3Fo7TO3Ww85ZsRj4gV6sYRnQQFXBySVrNGNMoGaTxOGuj8ZD9qMCdvPQUqJqWxw&usqp=CAU))
 
 ## Hi 👋 Rahul here, 
 I am a full-stack software engineer who specializes in backend-end development. I am working at [AeriTech LLC](https://aeritech.com).
