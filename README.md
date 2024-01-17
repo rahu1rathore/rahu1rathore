@@ -1,7 +1,7 @@
 ![Rahul Rathore Github Cover Photo](https://github.com/dipneupane/dipneupane/blob/main/assets/dipneupane_readme-cover.jpg)
 
 ## Hi 👋 Rahul here, 
-I am a full-stack software engineer who specializes in backend-end development. I am working at [AeriTech LLC](https://aeritech.com).
+I am a full-stack software engineer who specializes in backend development. I am working at [SynergyTop Inc](https://synergytop.com).
 
 
 I love writing on Medium about full-stack software development. 
