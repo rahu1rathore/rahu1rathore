@@ -1,6 +1,6 @@
 ![Rahul Rathore Github Cover Photo](https://github.com/dipneupane/dipneupane/blob/main/assets/dipneupane_readme-cover.jpg)
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Rahul Rathore!
 
 ### 💻 Python Developer | AI Enthusiast | Chatbot & NLP Engineer  
 🌐 Currently working at **SynergyTop, LLC**
@@ -31,16 +31,16 @@ I’m a backend developer passionate about building scalable APIs, intelligent a
 
 ### 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile-url)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
-- 📧 Email: you@example.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rahu1rathore/)  
+- 🐦 [Twitter](https://x.com/rahu1rathore)  
+- 📧 Email: rahulrathorest@gmail.com  
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahu1rathore&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahu1rathore&layout=compact&theme=radical)
 
 ---
 
