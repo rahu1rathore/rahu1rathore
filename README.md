@@ -43,13 +43,6 @@ Built a high-throughput distributed backend system utilizing FastAPI (sync & asy
 * **Key Feature:** Engineered 6 personalized AI agents utilizing **LangChain, LangGraph, and OpenAI APIs** to drive intelligent interactions.
 
 ---
-
-### 📈 GitHub Stats
-
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahu1rathore&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahu1rathore&layout=compact&theme=radium)
-
----
 ⭐️ *Building the future of automation, one AI agent at a time.*
 
 > ⚡ “Code it. Train it. Deploy it. Repeat.”
