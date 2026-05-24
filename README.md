@@ -46,10 +46,8 @@ Built a high-throughput distributed backend system utilizing FastAPI (sync & asy
 
 ### 📈 GitHub Stats
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium)
-
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub username to render the stat cards!)*
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahu1rathore&show_icons=true&theme=radium)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahu1rathore&layout=compact&theme=radium)
 
 ---
 ⭐️ *Building the future of automation, one AI agent at a time.*
